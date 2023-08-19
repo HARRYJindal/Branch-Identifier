@@ -1,0 +1,26 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - "**"
+  workflow_dispatch:
+
+jobs:
+ build:
+   runs-on: ubuntu-latest
+
+   steps:
+   - name: Checkout Repository
+     uses: actions/checkout@v3
+  
+   - name: Setup .Net
+     uses: actions/setup-dotnet@v3
+     with:
+       dotnet-version: '6.0'
+
+   - name: Restore Dependencies
+     uses: dotnet restore E:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.slnE:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.sln
+
+   - name: Build Web Application
+     uses: dotnet build E:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.sln
