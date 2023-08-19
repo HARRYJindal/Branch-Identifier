@@ -9,8 +9,7 @@ on:
 jobs:
  build:
    runs-on: ubuntu-latest
-
-   steps:
+   steps:     
    - name: Checkout Repository
      uses: actions/checkout@v3
   
@@ -20,7 +19,7 @@ jobs:
        dotnet-version: '6.0'
 
    - name: Restore Dependencies
-     uses: dotnet restore E:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.slnE:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.sln
+     run: dotnet restore scr\BranchCleaner\BranchCleaner.sln
 
    - name: Build Web Application
-     uses: dotnet build E:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.sln
+     run: dotnet build scr\BranchCleaner\BranchCleaner.sln
