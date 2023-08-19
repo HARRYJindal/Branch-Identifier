@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "2kP7OaRcE7yr/6/wKgphiR5ZSJRfLyQujLMgVVIQM1c=",
+  "Source": "BranchCleaner",
+  "BasePath": "_content/BranchCleaner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "D:\\extralearning\\BranchCleaner\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BranchCleaner.styles.css",
+      "SourceId": "BranchCleaner",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\extralearning\\BranchCleaner\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BranchCleaner",
+      "RelativePath": "BranchCleaner.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\extralearning\\BranchCleaner\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BranchCleaner.styles.css"
+    },
+    {
+      "Identity": "D:\\extralearning\\BranchCleaner\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BranchCleaner.bundle.scp.css",
+      "SourceId": "BranchCleaner",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\extralearning\\BranchCleaner\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BranchCleaner",
+      "RelativePath": "BranchCleaner.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\extralearning\\BranchCleaner\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BranchCleaner.bundle.scp.css"
+    }
+  ]
+}

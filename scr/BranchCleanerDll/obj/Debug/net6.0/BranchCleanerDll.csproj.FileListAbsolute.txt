@@ -1,0 +1,12 @@
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\BranchCleanerDll.csproj.AssemblyReference.cache
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\BranchCleanerDll.GeneratedMSBuildEditorConfig.editorconfig
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\BranchCleanerDll.AssemblyInfoInputs.cache
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\BranchCleanerDll.AssemblyInfo.cs
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\BranchCleanerDll.csproj.CoreCompileInputs.cache
+D:\extralearning\BranchCleanerDll\bin\Debug\net6.0\BranchCleanerDll.deps.json
+D:\extralearning\BranchCleanerDll\bin\Debug\net6.0\BranchCleanerDll.dll
+D:\extralearning\BranchCleanerDll\bin\Debug\net6.0\BranchCleanerDll.pdb
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\BranchCleanerDll.dll
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\refint\BranchCleanerDll.dll
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\BranchCleanerDll.pdb
+D:\extralearning\BranchCleanerDll\obj\Debug\net6.0\ref\BranchCleanerDll.dll
