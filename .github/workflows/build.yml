@@ -11,6 +11,9 @@ jobs:
    runs-on: ubuntu-latest
 
    steps:
+   - name: Run Docker Container
+     uses: docker://ubuntu:latest
+     
    - name: Checkout Repository
      uses: actions/checkout@v3
   
