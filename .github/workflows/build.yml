@@ -23,7 +23,7 @@ jobs:
        dotnet-version: '6.0'
 
    - name: Restore Dependencies
-     uses: dotnet restore E:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.slnE:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.sln
+     uses: dotnet restore scr\BranchCleaner\BranchCleaner.slnE:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.sln
 
    - name: Build Web Application
-     uses: dotnet build E:\Branch-Identifier\scr\BranchCleaner\BranchCleaner.sln
+     uses: dotnet build scr\BranchCleaner\BranchCleaner.sln
