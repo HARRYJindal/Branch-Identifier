@@ -19,7 +19,7 @@ jobs:
        dotnet-version: '6.0'
 
    - name: Restore Dependencies
-     run: dotnet restore scr\BranchCleaner\BranchCleaner.sln
+     run: dotnet restore ${{ github.workspace }}\scr\BranchCleaner\BranchCleaner.sln
 
    - name: Build Web Application
-     run: dotnet build scr\BranchCleaner\BranchCleaner.sln
+     run: dotnet build ${{ github.workspace }}\scr\BranchCleaner\BranchCleaner.sln
