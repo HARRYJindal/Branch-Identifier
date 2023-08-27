@@ -22,8 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BranchCleanerDll\BranchCleanerDll.csproj" />
-    <ProjectReference Include="..\BranchCleaner\BranchCleaner.csproj" />
+    <ProjectReference Include="..\scr\BranchCleanerDll\BranchCleanerDll.csproj" />
+    <ProjectReference Include="..\scr\BranchCleaner\BranchCleaner.csproj" />
   </ItemGroup>
 
 </Project>
