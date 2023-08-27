@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\extralearning\\BranchCleanerDll\\BranchCleanerDll.csproj": {}
+    "E:\\Branch-Identifier\\scr\\BranchCleanerDll\\BranchCleanerDll.csproj": {}
   },
   "projects": {
-    "D:\\extralearning\\BranchCleanerDll\\BranchCleanerDll.csproj": {
+    "E:\\Branch-Identifier\\scr\\BranchCleanerDll\\BranchCleanerDll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\extralearning\\BranchCleanerDll\\BranchCleanerDll.csproj",
+        "projectUniqueName": "E:\\Branch-Identifier\\scr\\BranchCleanerDll\\BranchCleanerDll.csproj",
         "projectName": "BranchCleanerDll",
-        "projectPath": "D:\\extralearning\\BranchCleanerDll\\BranchCleanerDll.csproj",
-        "packagesPath": "C:\\Users\\henishjindal\\.nuget\\packages\\",
-        "outputPath": "D:\\extralearning\\BranchCleanerDll\\obj\\",
+        "projectPath": "E:\\Branch-Identifier\\scr\\BranchCleanerDll\\BranchCleanerDll.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\Branch-Identifier\\scr\\BranchCleanerDll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\henishjindal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

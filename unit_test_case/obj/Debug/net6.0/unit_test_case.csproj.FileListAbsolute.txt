@@ -1,0 +1,6 @@
+D:\extralearning\unit_test_case\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\extralearning\unit_test_case\obj\Debug\net6.0\unit_test_case.csproj.AssemblyReference.cache
+D:\extralearning\unit_test_case\obj\Debug\net6.0\unit_test_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\extralearning\unit_test_case\obj\Debug\net6.0\unit_test_case.AssemblyInfoInputs.cache
+D:\extralearning\unit_test_case\obj\Debug\net6.0\unit_test_case.AssemblyInfo.cs
+D:\extralearning\unit_test_case\obj\Debug\net6.0\unit_test_case.csproj.CoreCompileInputs.cache

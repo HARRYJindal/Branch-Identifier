@@ -7081,19 +7081,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\henishjindal\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\extralearning\\BranchCleaner\\BranchCleaner.csproj",
+      "projectUniqueName": "E:\\Branch-Identifier\\scr\\BranchCleaner\\BranchCleaner.csproj",
       "projectName": "BranchCleaner",
-      "projectPath": "D:\\extralearning\\BranchCleaner\\BranchCleaner.csproj",
-      "packagesPath": "C:\\Users\\henishjindal\\.nuget\\packages\\",
-      "outputPath": "D:\\extralearning\\BranchCleaner\\obj\\",
+      "projectPath": "E:\\Branch-Identifier\\scr\\BranchCleaner\\BranchCleaner.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "E:\\Branch-Identifier\\scr\\BranchCleaner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\henishjindal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7107,8 +7107,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\extralearning\\BranchCleanerDll\\BranchCleanerDll.csproj": {
-              "projectPath": "D:\\extralearning\\BranchCleanerDll\\BranchCleanerDll.csproj"
+            "E:\\Branch-Identifier\\scr\\BranchCleanerDll\\BranchCleanerDll.csproj": {
+              "projectPath": "E:\\Branch-Identifier\\scr\\BranchCleanerDll\\BranchCleanerDll.csproj"
             }
           }
         }
@@ -7163,7 +7163,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
