@@ -28,4 +28,4 @@ jobs:
      run: dotnet restore ${{ github.workspace }}/scr/BranchCleaner/BranchCleaner.sln
      
    - name: Run Test Cases
-     run: dotnet test ${{ github.workspace }}/unit_test_case
+     run: dotnet test ${{ github.workspace }}/
