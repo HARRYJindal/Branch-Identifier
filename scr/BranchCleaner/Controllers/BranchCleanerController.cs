@@ -9,14 +9,14 @@ namespace BranchCleaner.Controllers
 {
 
     [ApiController]
-    public class BranchCleaner : Controller
+    public class BranchCleanerController : Controller
     {
 
         private readonly IBranchCleaner _branchCleaner;
         private readonly IMapper _mapper; 
-        private readonly ILogger<BranchCleaner> _logger;    
+        private readonly ILogger<BranchCleanerController> _logger;    
 
-        public BranchCleaner(IBranchCleaner branchCleaner, IMapper mapper, ILogger<BranchCleaner> logger)
+        public BranchCleanerController(IBranchCleaner branchCleaner, IMapper mapper, ILogger<BranchCleanerController> logger)
         {
             _branchCleaner = branchCleaner;
             _mapper = mapper;
