@@ -23,9 +23,6 @@ jobs:
 
    - name: Build Web Application
      run: dotnet build ${{ github.workspace }}/scr/BranchCleaner/BranchCleaner.sln
-     
-   - name: Restore Dependencies Again
-     run: dotnet restore ${{ github.workspace }}/scr/BranchCleaner/BranchCleaner.sln
-     
+          
    - name: Run Test Cases
      run: dotnet test ${{ github.workspace }}/unit_test_case/
