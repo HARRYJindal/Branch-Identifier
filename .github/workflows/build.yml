@@ -23,3 +23,5 @@ jobs:
 
    - name: Build Web Application
      run: dotnet build ${{ github.workspace }}/scr/BranchCleaner/BranchCleaner.sln
+   - name: Run Test Cases
+     run: dotnet test --configuration Release --logger "xunit"
